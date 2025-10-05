@@ -22,12 +22,6 @@ function Counter() {
 
         </div>
     )
-
-    function min() {
-        if (count < 0){
-            count.style.color = "red";
-        }
-    }
 }
 
 
